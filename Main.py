@@ -1,13 +1,13 @@
 from sys import exit
-messages = ['It is certain',
-    'It is decidedly so',
+messages = ['Abso-fuckin-lutely',
+    'Damn right',
     'Yes definitely',
     'Reply hazy try again',
-    'Ask again later',
+    'I\'ll be back',
     'Concentrate and ask again',
     'My reply is no',
     'Outlook not so good',
-    'Very doubtful']
+    'No freakin way']
 
 stop = True
 while stop:
